@@ -1,0 +1,8 @@
+581 shortest  unsorted array 
+139 word break
+650 2 keys keyboard
+4 keys keyboard
+860 number of distinct islands lintcode
+787 the maze
+662 maximum width of a binary tree
+301. Remove Invalid Parentheses
