@@ -6,3 +6,13 @@
 787 the maze
 662 maximum width of a binary tree
 301. Remove Invalid Parentheses
+/*
+find the shortest cycle in undirected graph
+the idea is to apply the bfs similar to dikshtras 
+  if we visit the back edge ans=min(ans,dis[it]+dis[node]+1)
+   distance till ith node  dis till back edge node +1 connecting these two
+   how we can check that already visited node is not a parent node
+   if(dis[it]>=dis[node]) {
+       this signifies that this is not a parent because parent will always have less distance
+   }
+   */
