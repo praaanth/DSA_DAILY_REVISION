@@ -18,4 +18,16 @@ the idea is to apply the bfs similar to dikshtras
    */
 
    1319 number of operations to make graph connected
-   
+
+   /*
+   23 merge k sorted lists 
+     there are three approaches 
+        1 merging two-sorted list function applying to the 
+           all the lists
+            tc--> n*totalnumberofnodes
+        2 using the priority queue
+            tc--> nklog(k) space--> o(k)  because the priority queue will have at most k lists in it
+              space is not n*k because we are storing only reference of the head pointer not the entire list
+
+        3  applying the mergesort to avoid the space 
+             the proof of deriving the merge sort is similar to deriving the tc for this problem see the note book for the for proof
