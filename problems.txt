@@ -35,3 +35,6 @@ the idea is to apply the bfs similar to dikshtras
   138 copy list with random pointer
     // coding ninjas contest question good question
   https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-26/problems/19941?leftPanelTab=1
+  // good question on graphs
+  https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-26/problems/20702
+   
