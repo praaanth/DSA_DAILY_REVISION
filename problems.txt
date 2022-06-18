@@ -31,3 +31,7 @@ the idea is to apply the bfs similar to dikshtras
 
         3  applying the mergesort to avoid the space 
              the proof of deriving the merge sort is similar to deriving the tc for this problem see the note book for the for proof
+
+  138 copy list with random pointer
+    // coding ninjas contest question good question
+  https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-26/problems/19941?leftPanelTab=1
