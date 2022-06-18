@@ -37,4 +37,4 @@ the idea is to apply the bfs similar to dikshtras
   https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-26/problems/19941?leftPanelTab=1
   // good question on graphs
   https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-26/problems/20702
-   
+   https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-10/problems/19080
