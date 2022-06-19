@@ -38,3 +38,7 @@ the idea is to apply the bfs similar to dikshtras
   // good question on graphs
   https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-26/problems/20702
    https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-10/problems/19080
+  
+
+  82 remove duplicates from sorted array 2
+
